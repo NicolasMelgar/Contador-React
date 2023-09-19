@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 2rem;
+}
+
+h1{
+    font-size: 4rem;
+    text-shadow: 15px 10px 3px  blueviolet;
+}
+
+p{
+    font-size: 4rem;
+}
+
+button{
+    padding: 1rem;
+    border-radius: 15px;
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+button:hover{
+    background-color: rgba(56, 53, 53, 0.53);
+    color: aliceblue;
+}
